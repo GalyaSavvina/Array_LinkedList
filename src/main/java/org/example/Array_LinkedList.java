@@ -5,19 +5,7 @@ import java.util.List;
 
 public class Array_LinkedList {
 
-    public static void main(String[] args) {
-        int iterations = 2000;
-        System.out.println("Performance comparison between ArrayList and LinkedList (iterations: " + iterations + ")\n");
-
-        testAdd(iterations);
-        testDelete(iterations);
-        testGet(iterations);
-        testContains(iterations);
-        testAddAll(iterations);
-        testRemove(iterations);
-    }
-
-    private static void testAdd(int iterations) {
+    public static void testAdd(int iterations) {
         System.out.println("Add Method:");
         System.out.println("| Collection | Iterations | Time (ms) |");
 
@@ -44,7 +32,7 @@ public class Array_LinkedList {
         System.out.println("| LinkedList | " + iterations + "          | " + duration + "        |\n");
     }
 
-    private static void testDelete(int iterations) {
+    public static void testDelete(int iterations) {
         System.out.println("Delete Method:");
         System.out.println("| Collection | Iterations | Time (ms) |");
 
@@ -75,7 +63,7 @@ public class Array_LinkedList {
         System.out.println("| LinkedList | " + iterations + "          | " + duration + "        |\n");
     }
 
-    private static void testGet(int iterations) {
+    public static void testGet(int iterations) {
         System.out.println("Get Method:");
         System.out.println("| Collection | Iterations | Time (ms) |");
 
@@ -107,7 +95,7 @@ public class Array_LinkedList {
     }
 
 
-    private static void testContains(int iterations) {
+    public static void testContains(int iterations) {
         System.out.println("Contains Method:");
         System.out.println("| Collection | Iterations | Time (ms) |");
 
@@ -141,7 +129,7 @@ public class Array_LinkedList {
 
 
 
-    private static void testAddAll(int iterations) {
+    public static void testAddAll(int iterations) {
         System.out.println("AddAll Method:");
         System.out.println("| Collection | Iterations | Time (ms) |");
 
@@ -170,7 +158,7 @@ public class Array_LinkedList {
     }
 
 
-    private static void testRemove(int iterations) {
+    public static void testRemove(int iterations) {
         System.out.println("Remove Method:");
         System.out.println("| Collection | Iterations | Time (ms) |");
 
