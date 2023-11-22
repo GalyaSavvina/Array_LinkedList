@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'D:/Array_LinkedList/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Array_LinkedList/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Array_LinkedList 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Array_LinkedList 1.0-SNAPSHOT API'
+org.example
+D:\Array_LinkedList\src\main\java = 1700633409723
+D:\Array_LinkedList\target\site\apidocs\allclasses-index.html = 1700663448928
+D:\Array_LinkedList\target\site\apidocs\allpackages-index.html = 1700663448934
+D:\Array_LinkedList\target\site\apidocs\copy.svg = 1700663449017
+D:\Array_LinkedList\target\site\apidocs\element-list = 1700663448837
+D:\Array_LinkedList\target\site\apidocs\help-doc.html = 1700663449004
+D:\Array_LinkedList\target\site\apidocs\index-all.html = 1700663448984
+D:\Array_LinkedList\target\site\apidocs\index.html = 1700663448994
+D:\Array_LinkedList\target\site\apidocs\link.svg = 1700663449020
+D:\Array_LinkedList\target\site\apidocs\member-search-index.js = 1700663448942
+D:\Array_LinkedList\target\site\apidocs\module-search-index.js = 1700663448936
+D:\Array_LinkedList\target\site\apidocs\overview-tree.html = 1700663448900
+D:\Array_LinkedList\target\site\apidocs\package-search-index.js = 1700663448939
+D:\Array_LinkedList\target\site\apidocs\script.js = 1700663449014
+D:\Array_LinkedList\target\site\apidocs\search-page.js = 1700663449029
+D:\Array_LinkedList\target\site\apidocs\search.html = 1700663448990
+D:\Array_LinkedList\target\site\apidocs\search.js = 1700663449025
+D:\Array_LinkedList\target\site\apidocs\stylesheet.css = 1700663449011
+D:\Array_LinkedList\target\site\apidocs\tag-search-index.js = 1700663448945
+D:\Array_LinkedList\target\site\apidocs\type-search-index.js = 1700663448940
